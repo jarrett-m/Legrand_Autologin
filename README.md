@@ -20,4 +20,5 @@ Log file will not be cleared every run, as it just appends all logins.
 # Warning:
 This script will open a brower and go to the website automatically, (it can take up to 5-8 seconds for the webpage to first load) it is best to not touch your mouse/keyboard until the script is complete.  
 
+I have included a demo video if you have any issues.
 Thank you for considering me as a canidate :) this was a lot of fun and have not really done anything like this before!  
