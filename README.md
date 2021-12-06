@@ -13,6 +13,7 @@ Execute the python file
 You can adjust username and passwords in the names_and_pass.txt file, format:  
 {USERNAME} {PASSWORD}  
 One username and password per line.  
+If issues occure let me know, or watch the included videos  
 
 Log file will not be cleared every run, as it just appends all logins.  
 
