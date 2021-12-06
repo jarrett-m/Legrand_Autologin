@@ -1,7 +1,7 @@
 # IMPORTANT!
 
 # Prerequisite:
-pip install webbot
+pip install webbot  
 pip uninstall selenium
 pip install selenium==3.141.0
 A recent version of google chrome.
