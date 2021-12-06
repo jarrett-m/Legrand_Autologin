@@ -14,6 +14,8 @@ You can adjust username and passwords in the names_and_pass.txt file, format:
 {USERNAME} {PASSWORD}
 One username and password per line.
 
+Log file will not be cleared every run, as it just appends all logins.
+
 # Waring:
 This script will open a brower and go to the website automatically, (it can take up to 5-8 seconds for the webpage to first load) it is best to not touch your mouse/keyboard until the script is complete.
 
