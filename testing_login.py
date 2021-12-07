@@ -49,14 +49,8 @@ def main():
             n_and_p_list.append((split_info[0], split_info[1]))
 
     for item in n_and_p_list:
-        started = False
-        not_done = True
+        run_login(item[0], item[1], web)
 
-        #Infinte loop until the login process is complete.
-        while not_done:
-            if not started:
-                not_done = run_login(item[0], item[1], web)
-                started = True
 
     web.quit()
 
